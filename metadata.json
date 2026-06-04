@@ -1,0 +1,59 @@
+{
+  "siteId": "pet-boarding-choice",
+  "generatedAt": "2026-06-04T11:36:30.502720",
+  "categories": [
+    "beginner-pet-boarding-choice",
+    "advanced-pet-boarding-choice",
+    "tips-pet-boarding-choice",
+    "history-pet-boarding-choice",
+    "trending-pet-boarding-choice",
+    "tutorials-pet-boarding-choice"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-pet-boarding-choice",
+      "category_name": "Beginner Pet Boarding Choice"
+    },
+    {
+      "category_slug": "advanced-pet-boarding-choice",
+      "category_name": "Advanced Pet Boarding Choice"
+    },
+    {
+      "category_slug": "tips-pet-boarding-choice",
+      "category_name": "Pet Boarding Choice Tips"
+    },
+    {
+      "category_slug": "history-pet-boarding-choice",
+      "category_name": "Pet Boarding Choice History"
+    },
+    {
+      "category_slug": "trending-pet-boarding-choice",
+      "category_name": "Trending Pet Boarding Choice"
+    },
+    {
+      "category_slug": "tutorials-pet-boarding-choice",
+      "category_name": "Pet Boarding Choice Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "pet-boarding-choice",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Pet Boarding Choice Central",
+    "articles_per_row": 2
+  }
+}
